@@ -1,0 +1,8 @@
+.cards{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.item{
+  border:5px solid rgb(47, 17, 200);
+}
